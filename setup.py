@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = (0, 1, 9)
+VERSION = (0, 1, 10)
 __version__ = '.'.join(map(str, VERSION))
 
 setup(
@@ -24,4 +24,3 @@ setup(
         "Programming Language :: Python",
     ],
 )
-
